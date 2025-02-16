@@ -42,10 +42,6 @@ This project uses the **API Ninjas Quotes API**. To use it:
    }
    ```
 
-## 📸 Screenshots
-
-![Random Quote Generator UI](https://via.placeholder.com/800x400.png?text=Random+Quote+Generator)
-
 ## 🎯 Usage
 
 - Click the **Generate** button to fetch a new quote.
